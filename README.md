@@ -5,6 +5,13 @@
 - Equiped with predictive methods such as advanced regression methods (GLM's), times series modeling (GARCH, ARMA, ARIMA, VAR, VECM) applied to cases in monetary policy analysis, asset pricing, statistical arbitrage and player analysis.
 - **BA in Economics and Research Specialization.** <br>
 - Courses in Advanced Regression Analysis, Advanced Time Series Analysis, Advanced Econometrics, Statistical Learning, Game Theory, Financial Econometrics, Advanced Macroeconomics, Advanced Microeconomics, Bank of Canada Governor’s Challenge
+Papers I've written:
+- <a href="https://carsonboettinger.github.io/Other_Files/DividendProbabilityRegressors.pdf">
+    Determinants of the Probability of a Dividend Declaration: Evidence in Major North American Stock Markets (2024)
+  </a>
+- <a href="https://carsonboettinger.github.io/Other_Files/Interest_rate_prediction_model.pdf">
+    Monetary Policy Rate Forecasting Model (2023)
+  </a>
 - I also do web dev on the side :)
 
 
