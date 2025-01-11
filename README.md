@@ -1,7 +1,13 @@
 <!--Full Name-->
 ### <h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Carson Boettinger </h2>
-<!--Scroll text in for "Data Science + Econonmetrics"-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F71A&random=false&width=435&lines=Data+Science+%2B+Econometrics" alt="Typing SVG" /></a>
+<!--Stuff about me!-->
+- Canadian citizen with experience in quantitative analytics, data science, econometrics - applied to financial markets
+- Equiped with predictive methods such as advanced regression methods (GLM's), times series modeling (GARCH, ARMA, ARIMA, VAR, VECM) applied to cases in monetary policy analysis, asset pricing, statistical arbitrage and player analysis.
+- **BA in Economics and Research Specialization.** <br>
+- Courses in Advanced Regression Analysis, Advanced Time Series Analysis, Advanced Econometrics, Statistical Learning, Game Theory, Financial Econometrics, Advanced Macroeconomics, Advanced Microeconomics, Bank of Canada Governor’s Challenge
+- I also do web dev on the side :)
+
+
 <!--Current Toolkit with vizzed logos-->
 <h2>🧰 Current Toolkit</h2>
 <!--Current Skills Images In-->
