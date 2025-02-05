@@ -1,7 +1,7 @@
 <!--Full Name-->
 ### <h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Carson Boettinger </h2>
 <!--Stuff about me!-->
-- Canadian citizen with experience in quantitative analytics, data science, econometrics - applied to financial markets
+- Canadian citizen with experience in quantitative analytics, data science, econometrics - applied to financial and insurance markets
 - Equiped with predictive methods such as advanced regression methods (GLM's), times series modeling (GARCH, ARMA, ARIMA, VAR, VECM) applied to cases in monetary policy analysis, asset pricing, statistical arbitrage and player analysis.
 - **BA in Economics and Research Specialization.** <br>
 - Courses in Advanced Regression Analysis, Advanced Time Series Analysis, Advanced Econometrics, Game Theory, Financial Econometrics, Advanced Macroeconomics, Advanced Microeconomics, and Bank of Canada Governor’s Challenge </br></br>
@@ -23,9 +23,10 @@ Papers I've written:
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" title="sklearn" alt="sklearn" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/stata/stata-original-wordmark.svg" title="Stata" alt="Stata" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 
 <h2>🧰 Current DEV Toolkit</h2>
